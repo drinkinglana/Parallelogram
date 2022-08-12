@@ -12,7 +12,7 @@ namespace Paralelogramo
 
             do
             {
-                Console.WriteLine("Dibuja las filas con *.");
+                Console.WriteLine("Dibuja las filas con #.");
                 Console.WriteLine("1)Calcular área 2)Reiniciar 3)Salir");
                 error = false;
                 int i = 0;
